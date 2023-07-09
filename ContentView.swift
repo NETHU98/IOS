@@ -2,8 +2,8 @@
 //  ContentView.swift
 //  CalcFun
 //
-//  Created by Nethmee Perera on 7/4/23.
-//
+
+
 import SwiftUI
 
 struct ContentView: View {
